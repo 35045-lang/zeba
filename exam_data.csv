@@ -1,0 +1,18 @@
+Student_ID,Student_Name,Subject,Semester,Score,Date,Grade
+1001,Alice Johnson,computer science,Fall 2024,88,2024-12-15,A
+1001,Alice Johnson,Science,Fall 2024,92,2024-12-16,A+
+1001,Alice Johnson,History,Fall 2024,76,2024-12-17,B
+1002,Bob Williams,computer science,Fall 2024,72,2024-12-15,B-
+1002,Bob Williams,Science,Fall 2024,85,2024-12-16,A
+1002,Bob Williams,History,Fall 2024,68,2024-12-17,C+
+1003,Charlie Brown,computer science,Fall 2024,95,2024-12-15,A+
+1003,Charlie Brown,Science,Fall 2024,80,2024-12-16,B+
+1003,Charlie Brown,History,Fall 2024,90,2024-12-17,A
+1004,David Lee,computer science,Spring 2025,65,2025-05-10,C
+1004,David Lee,Science,Spring 2025,78,2025-05-11,B+
+1005,Eve Garcia,computer science,Spring 2025,90,2025-05-10,A
+1005,Eve Garcia,Science,Spring 2025,83,2025-05-11,A
+1005,Eve Garcia,History,Spring 2025,75,2025-05-12,B
+1001,Alice Johnson,computer science,Spring 2025,91,2025-05-10,A+
+1001,Alice Johnson,Science,Spring 2025,89,2025-05-11,A
+1009,jacob,humanities,spring 2025,55,2025-05-11,A
